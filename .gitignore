@@ -1,0 +1,14 @@
+.build-deps/
+.build/
+build/
+node_modules/
+repository/
+output/
+*.jks
+*.keystore
+*.p12
+*.apk
+*.idsig
+*.log
+local.properties
+.DS_Store
