@@ -4,7 +4,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/The8ravo/orbit-guard-lite/releases/latest) 下载 `orbit-guard-v1.0.0.apk`，在 Android 手机上打开安装。私有仓库需要登录仓库拥有者的 GitHub 账号才能下载。
+前往 [Releases](https://github.com/The8ravo/orbit-guard-lite/releases/latest) 下载 `orbit-guard-v1.0.0.apk`，在 Android 手机上打开安装。公开下载，无需登录 GitHub。若 APK 下载受阻，可下载 [ZIP 备用包](https://github.com/The8ravo/orbit-guard-lite/releases/download/v1.0.0/orbit-guard-v1.0.0.zip)，解压后安装其中的 APK。
 
 ## 玩法
 
